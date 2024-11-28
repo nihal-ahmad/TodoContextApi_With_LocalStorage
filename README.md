@@ -18,7 +18,7 @@ bun dev
 
 Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
 
-- Live Link : 
+- Live Link : https://persistent-todo.netlify.app
 
 ## Features
 
